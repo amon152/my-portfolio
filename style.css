@@ -158,7 +158,7 @@ p{
    width: 112px;
    height: 112px;
    display: grid;
-   background: #fff;
+   background: rgb(112, 106, 106);
    filter: blur(4.5px) contrast(10);
    padding: 11.2px;
    mix-blend-mode: darken;
