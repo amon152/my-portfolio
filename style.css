@@ -128,7 +128,7 @@ p{
 }
 
 .pulse:before,
-.pulse:after {
+.pulse:after { 
    content: "";
    position: absolute;
    inset: 0;
@@ -144,7 +144,7 @@ p{
 
 @keyframes pulse-kefe91hg {
    100% {
-      box-shadow: 0 0 0 70.4px #0000;
+      box-shadow: 0 0 0 70.4px rgba(29, 24, 24, 0);
    }
 }
 .blob{
